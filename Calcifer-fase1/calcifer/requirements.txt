@@ -1,0 +1,14 @@
+python-telegram-bot==20.7
+flask==3.0.3
+flask-cors==4.0.1
+requests==2.32.3
+python-dotenv==1.0.1
+mysql-connector-python==8.4.0
+stripe==10.5.0
+paypalrestsdk==1.13.3
+squareup==37.0.0.20240515
+gunicorn==22.0.0
+undetected-chromedriver==3.5.5
+mitmproxy==10.3.1
+fake-useragent==1.4.0
+Pillow==10.3.0
